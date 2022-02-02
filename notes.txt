@@ -1,0 +1,20 @@
+
+LIST OF HTML TAGS:
+ - h1-h6 -> Headings, h1 is the largest, h6 is the smallest
+ - p     -> paragraphs, they smaller text that is on its own line
+ - i     -> italicizes whatever is inside of it
+ - u     -> underlines whatever is inside of it
+ - b     -> bolds whatever is inside of it
+
+ - ul    -> unordered list, good for bullet points
+ - li    -> list item, goes inside of ul and represents one item
+ - ol    -> ordered list, functions the same as unordered list but has numbers
+
+ - table -> creates a table, with tr and td tags inside
+ - tr    -> creates a row within a table, placed within a table tag
+ - td    -> creates a cell within a row, placed within a tr tag
+
+ - a/href tags -> creates a link. Format:
+                  <a href="[LINK]">[TEXT TO BE DISPLAYED]</a>
+
+ - br    -> whole line space 
