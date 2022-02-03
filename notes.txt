@@ -2,6 +2,9 @@
 LIST OF HTML TAGS:
  - h1-h6 -> Headings, h1 is the largest, h6 is the smallest
  - p     -> paragraphs, they smaller text that is on its own line
+                  <p style="color:red;">
+ - pre   -> <pre> element is displayed in a fixed-width font (usually Courier), and it preserves both spaces and line breaks
+
  - i     -> italicizes whatever is inside of it
  - u     -> underlines whatever is inside of it
  - b     -> bolds whatever is inside of it
@@ -17,4 +20,11 @@ LIST OF HTML TAGS:
  - a/href tags -> creates a link. Format:
                   <a href="[LINK]">[TEXT TO BE DISPLAYED]</a>
 
- - br    -> whole line space 
+ - br    -> whole line space
+ - img src -> add image
+                  <img src="img_girl.jpg">
+                  <img src="img_girl.jpg" width="500" height="600">
+                  <img src="img_girl.jpg" alt="Girl with a jacket">
+
+ - style ->       style stuff
+                  <tagname style="property:value;">
