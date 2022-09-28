@@ -1,0 +1,8 @@
+Improvements
+
+1. Make pointers for each board spot because it's annoying to type Board[x][y]
+2. Incorporate the logic into the class instead of doing in main method
+3. Incorporate a way for it to be more interactive with users (names, play again, yes/y/Yes/Y/No etc.)
+4. Bot player
+
+5. Try catch for inputting char instead of integers

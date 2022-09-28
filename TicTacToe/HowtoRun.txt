@@ -1,0 +1,6 @@
+1.Pull/clone repo
+2.cd  into repo with `/cd Jng_Projects`
+3.cd into directory `/cd TicTacToe`
+4.`javac *.java`
+5.`java Board`
+6. Have fun
