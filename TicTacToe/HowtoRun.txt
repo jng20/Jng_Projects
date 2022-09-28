@@ -1,9 +1,10 @@
 1.Pull/clone repo
 2.cd  into repo with `/cd Jng_Projects`
 3.cd into directory `/cd TicTacToe`
-4.`javac *.java`
-5.`java Board`
+4.then run `javac *.java`
+5.then run `java Board`
 6. Have fun
+(do not copy the ` at the beginning and end)
 
 The board is organized like this:
 1 2 3
