@@ -4,3 +4,8 @@
 4.`javac *.java`
 5.`java Board`
 6. Have fun
+
+The board is organized like this:
+1 2 3
+4 5 6
+7 8 9
