@@ -5,4 +5,4 @@ Improvements
 3. Incorporate a way for it to be more interactive with users (names, play again, yes/y/Yes/Y/No etc.)
 4. Bot player
 
-5. Try catch for inputting char instead of integers
+5. Try catch for inputting char instead of integers   Done

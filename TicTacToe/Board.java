@@ -211,6 +211,10 @@ public class Board {
 
 				while( play == false ) {
 					System.out.print("Place your X (input number 1-9 inclusive): ");
+					while(sc.hasNextInt() == false) {
+						System.out.println("Wrong input. Please correct it.");
+						sc.next();
+					}
 					play = b.PlaceP1(sc.nextInt());
 				}
 				b.PrintBoard();
@@ -219,6 +223,10 @@ public class Board {
 
 				while( play == false ) {
 					System.out.print("Place your O (input number 1-9 inclusive): ");
+					while(sc.hasNextInt() == false) {
+						System.out.println("Wrong input. Please correct it.");
+						sc.next();
+					}
 					play = b.PlaceP2(sc.nextInt());
 				}
 				b.PrintBoard();
