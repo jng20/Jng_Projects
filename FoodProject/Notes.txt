@@ -1,0 +1,26 @@
+Jacob Ng
+Food Project
+
+Synopsis
+Ever hang out with a group of friends and can't decide what to eat. Or maybe you're alone and don't know what you want to eat.
+What if there was a tool that generated a meal for you. What if the tool also tracked what you had in the past few days to
+suggests new foods to try. Into cooking? What if the tool could generate recipes too? Customize and personalize the list. Grow the
+list over time too.
+
+Potential web 3 app? Sweatcoin but foodcoin???
+partner with restaurants. Users generate coins when they use app. coins can be used to buy discounts for food.
+promo restaurants too
+
+Goals for now:
+1.Design a tool that generates random foods
+  -Probably uses a queue to "pop" out food. After popped gets added back to the end of the list.
+  -Maybe a randomizer method to randomize the queue but probably not needed.
+  -Need an add method. Probably just use queue add.
+  -Need a counter and a method that suggests a new food or cuisine not in the list
+    -when counter hits certain number the method is triggered
+  -Need to take in inputs(food) from user. For now read in inputs.
+
+  Improvements
+  -Easier ui. Maybe buttons for the user to add food instead of typing it. some sort of autosuggest
+  -Figure out what objects go in the queue.
+  -Potentially design an object for foods that go into the queue.
