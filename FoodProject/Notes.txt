@@ -3,13 +3,19 @@ Food Project
 
 Synopsis
 Ever hang out with a group of friends and can't decide what to eat. Or maybe you're alone and don't know what you want to eat.
-What if there was a tool that generated a meal for you. What if the tool also tracked what you had in the past few days to
-suggests new foods to try. Into cooking? What if the tool could generate recipes too? Customize and personalize the list. Grow the
-list over time too.
+What if there was a tool that generated a meal for you?
+What if the tool also tracked what you had in the past few days to suggests new foods to try?
+Maybe you're the adventurous type and you just like trying new things.
+Into cooking? What if the tool could generate recipes too? Or at least link you to recipes online.
+Help you find the best restaurants around you for the food you're looking for.
+Customize and personalize the list. Grow the list over time too.
 
 Potential web 3 app? Sweatcoin but foodcoin???
 partner with restaurants. Users generate coins when they use app. coins can be used to buy discounts for food.
 promo restaurants too
+
+*Side note*
+People like collecting stuff so maybe have like nft collections of food.
 
 Goals for now:
 1.Design a tool that generates random foods
@@ -24,3 +30,31 @@ Goals for now:
   -Easier ui. Maybe buttons for the user to add food instead of typing it. some sort of autosuggest
   -Figure out what objects go in the queue.
   -Potentially design an object for foods that go into the queue.
+
+
+V1
+- created a queue.
+- created:
+          add(String) returns void - add foods to the list
+          pop() returns string - removes food from front of list and places at the back
+
+V2
+/*
+v2 will increase the food selections available using 100 most popular foods https://www.tasteatlas.com/100-most-popular-foods-in-the-world
+Create a randomizer method that selects 10 foods out of the hundred and adds to the list for a base list.
+Create a remove method that removes from food list and adds back to top100
+
+Next Steps
+    -Still need to think of when to randomly suggest a new addition to the list
+    -Still need a way to suggest a new type of cuisine
+    -Need a way to classify cuisine because sometimes you want a meal but this list may generate a dessert.
+    -Potentially (even though it feels rather inefficient) create an object for each and every food with attributes of
+        - name
+        - cuisine type
+        - meal type (breakfast, lunch, dinner, snack, dessert)
+        - recipe / recipe link
+        - nearby restaurants
+    - need to figure out way to connect java program to internet.
+    - create another save list for new foods to try but don't want to eat at the moment
+
+*/

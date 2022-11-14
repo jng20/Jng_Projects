@@ -1,0 +1,82 @@
+BLT Sandwich
+Éclair
+Apple Pie
+Nougat
+Fudge
+Jeon (Korean pancakes)
+Dondurma (Turkish ice cream)
+Bruschetta
+Kimbap
+Pizza
+Börek
+Pulled Pork
+Frozen Yogurt
+Churros
+Macarons
+Miso Soup
+Gnocchi
+Spring Rolls
+Mole
+Grilled Cheese
+Fondue
+Milkshake
+Tiramisù
+Pad Thai
+Churrasco
+Ceviche
+Ravioli
+Pasta
+Baguette
+Fish and Chips
+Doughnut
+Chocolate Chip Cookie
+Bibimbap
+Bulgogi
+Naan
+Chutney
+Quesadilla
+Guacamole
+Tonkatsu
+Fajitas
+Hummus
+Tamale
+Burrito
+Pho
+Mac and Cheese
+Shabu-shabu
+Wagashi
+mochi
+Biryani
+Wonton Noodles
+Fried Chicken
+Soup Dumpling
+Pot Stickers
+Gyoza
+Chinese Fried Rice
+Taiwanese Beef Noodle Soup
+Ramen
+Chinese Hand Pulled Noodles
+Chinese Baos
+Chinese Noodles
+Pasta carbonara
+Nachos
+Quiche
+Brownies
+Soba
+Tagliatelle al ragù alla Bolognese
+Kimchi
+Cupcake
+Risotto
+Onigiri
+Lasagna
+Roti
+Cheeseburger
+Yakitori
+American Barbecue
+Paella
+Udon
+Sashimi
+Sushi
+Yakiniku
+Tacos
+Croissant
