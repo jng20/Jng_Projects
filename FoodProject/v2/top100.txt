@@ -80,3 +80,6 @@ Sushi
 Yakiniku
 Tacos
 Croissant
+French fries
+Gyro
+Salad
